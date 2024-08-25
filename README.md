@@ -66,5 +66,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Kaggle Notebook:** [Automated Essay Scoring LSTM Project](https://www.kaggle.com/code/alihassanml/automated-essay-scoring-lstm-project/notebook)
 
 ---
+!image[https://github.com/alihassanml/Automated-Essay-Scoring-LSTM-Project/blob/main/1.png]
 
 This README provides an overview of the project, instructions on getting started, and links to your GitHub repository and Kaggle notebook.
